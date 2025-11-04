@@ -20,4 +20,4 @@ This project demonstrates a mini data engineering pipeline for computer vision:
 
 
 
-![Text Detection Output](data/output/output.jpg)
+![Text Detection Output](output.png)
